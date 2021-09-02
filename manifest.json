@@ -1,8 +1,7 @@
 {
   "short_name": "Algo-visualiser",
   "name": "Algorithms Visualiser",
-  "start_url": "./",
-  "scope":".",
+  "start_url": "/algorithms-visualiser",
   "display": "standalone",
   "theme_color": "#050436",
   "background_color": "#ffffff",
