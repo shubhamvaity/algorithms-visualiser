@@ -1,6 +1,7 @@
 let CACHE_NAME = 'algorithms-visualiser';
 let urlsToCache = [
   '/algorithms-visualiser/',
+  'service-worker.js',
   'manifest.json',
   '/completed'
 ];
